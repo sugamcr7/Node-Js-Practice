@@ -1,0 +1,20 @@
+{
+  "name": "secondproject",
+  "version": "1.0.0",
+  "description": "Learning Express JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Learing",
+    "Express",
+    "JS"
+  ],
+  "author": "Sugam Karmakar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9"
+  }
+}

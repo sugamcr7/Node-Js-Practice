@@ -10,5 +10,8 @@
     "Starting"
   ],
   "author": "Sugam Karmakar",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
